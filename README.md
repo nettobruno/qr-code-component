@@ -10,6 +10,12 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 </br>
 
+## URL
+
+Caso queira ver o projeto no ar, basta clicar no link a seguir: [URL](https://qr-code-component-nettobruno.vercel.app/)
+
+</br>
+
 ## 🛠 Tecnologias
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
